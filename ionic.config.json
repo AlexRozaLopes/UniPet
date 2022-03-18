@@ -1,0 +1,7 @@
+{
+  "name": "UniPet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
